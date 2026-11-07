@@ -1,0 +1,98 @@
+[
+	{
+		"name":"Rook",
+		"stats":{ "s":9, "p":3, "e":7, "c":2, "i":2, "a":4, "l":3 },
+		"passive":{},
+		"picture":"placeHolder.png"
+	},
+	{
+		"name":"Wren",
+		"stats":{ "s":3, "p":7, "e":3, "c":3, "i":4, "a":8, "l":2 },
+		"passive":{},
+		"picture":"placeHolder.png"
+	},
+	{
+		"name":"Doc Hale",
+		"stats":{ "s":2, "p":4, "e":5, "c":7, "i":7, "a":3, "l":2 },
+		"passive":{},
+		"picture":"placeHolder.png"
+	},
+	{
+		"name":"Lucky Ash",
+		"stats":{ "s":3, "p":4, "e":3, "c":6, "i":3, "a":4, "l":7 },
+		"passive":{},
+		"picture":"placeHolder.png"
+	},
+	{
+		"name":"Bulwark",
+		"stats":{ "s":5, "p":3, "e":10, "c":2, "i":3, "a":3, "l":4 },
+		"passive":{},
+		"picture":"placeHolder.png"
+	},
+	{
+		"name":"Vesper",
+		"stats":{ "s":4, "p":10, "e":3, "c":3, "i":5, "a":3, "l":2 },
+		"passive":{},
+		"picture":"placeHolder.png"
+	},
+	{
+		"name":"Ironclad",
+		"stats":{ "s":5, "p":2, "e":8, "c":2, "i":2, "a":3, "l":3 },
+		"passive":{ "name":"Iron Hide", "description":"Takes 1 less damage from every hit.", "damageReduction":1 },
+		"picture":"placeHolder.png"
+	},
+	{
+		"name":"Brick",
+		"stats":{ "s":4, "p":3, "e":9, "c":2, "i":3, "a":2, "l":2 },
+		"passive":{ "name":"Iron Hide", "description":"Takes 1 less damage from every hit.", "damageReduction":1 },
+		"picture":"placeHolder.png"
+	},
+	{
+		"name":"Moss",
+		"stats":{ "s":2, "p":4, "e":6, "c":4, "i":4, "a":3, "l":2 },
+		"passive":{ "name":"Regrowth", "description":"Recovers 2 HP at the end of every turn.", "hpRegen":2 },
+		"picture":"placeHolder.png"
+	},
+	{
+		"name":"Nettle",
+		"stats":{ "s":3, "p":4, "e":5, "c":2, "i":3, "a":5, "l":3 },
+		"passive":{ "name":"Spines", "description":"Deals 2 damage back to anyone who hits it.", "thorns":2 },
+		"picture":"placeHolder.png"
+	},
+	{
+		"name":"Leech",
+		"stats":{ "s":4, "p":4, "e":4, "c":2, "i":4, "a":5, "l":2 },
+		"passive":{ "name":"Bloodthirst", "description":"Every attack steals 25% of its damage as HP.", "lifeSteal":25 },
+		"picture":"placeHolder.png"
+	},
+	{
+		"name":"Cinder",
+		"stats":{ "s":6, "p":3, "e":3, "c":2, "i":3, "a":6, "l":2 },
+		"passive":{ "name":"Last Stand", "description":"Deals 2 extra damage at or below half HP.", "lowHpDamage":2 },
+		"picture":"placeHolder.png"
+	},
+	{
+		"name":"Sable",
+		"stats":{ "s":3, "p":5, "e":3, "c":3, "i":3, "a":6, "l":2 },
+		"passive":{ "name":"Second Wind", "description":"Recovers 1 extra stamina every turn.", "staminaRegen":1 },
+		"picture":"placeHolder.png"
+	},
+	{
+		"name":"Juno",
+		"stats":{ "s":4, "p":5, "e":4, "c":4, "i":4, "a":4, "l":5 },
+		"passive":{},
+		"picture":"placeHolder.png"
+	},
+	{
+		"name":"Bramble",
+		"stats":{ "s":4, "p":3, "e":6, "c":3, "i":3, "a":4, "l":2 },
+		"passive":{ "name":"Spines", "description":"Deals 2 damage back to anyone who hits it.", "thorns":2 },
+		"picture":"placeHolder.png"
+	},
+	{
+		"name":"Kubura",
+		"stats":{ "s":10, "p":9, "e":1, "c":1, "i":1, "a":1, "l":2 },
+		"passive":{ "name":"Spines", "description":"Deals death damage back to anyone who hits it.", "thorns":2},
+		"picture":"marios.png"
+	}
+]

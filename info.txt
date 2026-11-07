@@ -1,0 +1,10 @@
+character stats, character moves, and character pictures in ./public directory.
+every character can learn any attack.
+there will be a placeholder picture for every character without a picture.
+some characters will have special passive abilities, but -5 stat points (base stat points for every character 30).
+the characters with passive abilities can have the same abilities with others, but never the same stats.
+attacks have 3 base levels and a special prime level (1 prime attack per run).
+the player can find any character in the wild to fight, even his own.
+every character can have up to 3 attacks, (NPC wild characters will have 2 level 1 attacks).
+the order of the actions in this turn-based combat game will be decided with the agility level of the characters (player always gets advantage if equal).
+

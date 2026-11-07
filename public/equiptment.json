@@ -1,0 +1,90 @@
+[
+	{
+		"name":"helmet",
+		"startRoundShild":0,
+		"dodgeChance":2,
+		"damageReduction":0,
+		"maxHealthBonus":0,
+		"rarity":"common"
+	},
+	{
+		"name":"Leather Boots",
+		"startRoundShild":0,
+		"dodgeChance":4,
+		"damageReduction":0,
+		"maxHealthBonus":0,
+		"rarity":"common"
+	},
+	{
+		"name":"Padded Vest",
+		"startRoundShild":0,
+		"dodgeChance":0,
+		"damageReduction":1,
+		"maxHealthBonus":0,
+		"rarity":"common"
+	},
+	{
+		"name":"Tin Flask",
+		"startRoundShild":0,
+		"dodgeChance":0,
+		"damageReduction":0,
+		"maxHealthBonus":6,
+		"rarity":"common"
+	},
+	{
+		"name":"Riot Helmet",
+		"startRoundShild":5,
+		"dodgeChance":0,
+		"damageReduction":0,
+		"maxHealthBonus":3,
+		"rarity":"uncommon"
+	},
+	{
+		"name":"Running Shoes",
+		"startRoundShild":0,
+		"dodgeChance":8,
+		"damageReduction":0,
+		"maxHealthBonus":0,
+		"rarity":"uncommon"
+	},
+	{
+		"name":"Kevlar Vest",
+		"startRoundShild":0,
+		"dodgeChance":0,
+		"damageReduction":1,
+		"maxHealthBonus":6,
+		"rarity":"uncommon"
+	},
+	{
+		"name":"Combat Armor",
+		"startRoundShild":2,
+		"dodgeChance":0,
+		"damageReduction":2,
+		"maxHealthBonus":0,
+		"rarity":"rare"
+	},
+	{
+		"name":"Ghost Cloak",
+		"startRoundShild":3,
+		"dodgeChance":12,
+		"damageReduction":0,
+		"maxHealthBonus":0,
+		"rarity":"rare"
+	},
+	{
+		"name":"Titan Plate",
+		"startRoundShild":0,
+		"dodgeChance":0,
+		"damageReduction":1,
+		"maxHealthBonus":20,
+		"rarity":"rare"
+	},
+	{
+		"name":"Aegis Suit",
+		"startRoundShild":6,
+		"dodgeChance":8,
+		"damageReduction":2,
+		"maxHealthBonus":10,
+		"rarity":"epic"
+	}
+]

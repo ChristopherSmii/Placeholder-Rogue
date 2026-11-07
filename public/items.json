@@ -1,0 +1,44 @@
+[
+	{
+		"name":"Protein Shake",
+		"stat":"s",
+		"price":8,
+		"description":"Tastes like chalk. Works anyway."
+	},
+	{
+		"name":"Carrot Juice",
+		"stat":"p",
+		"price":5,
+		"description":"Everything looks a little sharper."
+	},
+	{
+		"name":"Thick Soup",
+		"stat":"e",
+		"price":6,
+		"description":"You could stand a spoon in it."
+	},
+	{
+		"name":"Breath Mint",
+		"stat":"c",
+		"price":4,
+		"description":"People suddenly want to help you."
+	},
+	{
+		"name":"Crossword Book",
+		"stat":"i",
+		"price":4,
+		"description":"Seven across: a second helping."
+	},
+	{
+		"name":"Energy Gum",
+		"stat":"a",
+		"price":6,
+		"description":"Your feet are already moving."
+	},
+	{
+		"name":"Four-Leaf Clover",
+		"stat":"l",
+		"price":5,
+		"description":"Technically you should eat it."
+	}
+]
